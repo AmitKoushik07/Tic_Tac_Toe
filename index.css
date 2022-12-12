@@ -33,6 +33,10 @@ html {
   font-size: 12vmin;
   color: #d161ff;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+.button-option:hover{
+    background-color: rgb(217, 194, 238);
 }
 #restart {
   font-size: 1.3em;
