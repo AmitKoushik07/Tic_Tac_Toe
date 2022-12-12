@@ -60,6 +60,7 @@ html {
   position: relative;
   margin: 1.5em auto 0 auto;
   display: block;
+  cursor : pointer;
 }
 .popup {
   background: linear-gradient(135deg, #8052ec, #d161ff);
