@@ -1,8 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: "Raleway", sans-serif;
+}
+nav {
+    background-color: blueviolet;
+    color: #ffff;
+    height: 33px ;
+    display: flex;
+    align-items: center;
+    padding: 3px 1px;
+    font-family: 'Roboto', sans-serif;
+    flex-wrap: wrap;
 }
 body {
   height: 100vh;
